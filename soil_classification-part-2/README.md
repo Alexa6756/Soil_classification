@@ -87,9 +87,15 @@ Regularly validate the model to avoid overfitting and underfitting.
 
 ## Contact and Contributions ✉️
 
-Your Name
-Email: your.email@example.com
-GitHub: yourusername
+*Team name: Async Minds
+
+*Name:Alexa Kurapati 
+*Institution: IIIT Tiruchirappalli 
+*Email:221128@iiitt.ac.in
+
+*Name:Sahithi Sirivella 
+*Institution: Rajiv Gandhi University Of Knowledge Technologies 
+*Email:sirivella.sahithi37@gmail.com
 
 Thank you for exploring this project! 🌍🌾
 Together, let's leverage AI to advance sustainable agriculture and environmental stewardship. 🤝
