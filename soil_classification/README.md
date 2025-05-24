@@ -78,6 +78,5 @@ These metrics are computed both per-class and as macro/weighted averages to asse
 * Evaluation includes per-class analysis to avoid overfitting on dominant classes
 
 
-
-> A reliable soil classification model contributes directly to sustainable land use, precision agriculture, and efficient resource planning. 🌿
+# A reliable soil classification model contributes directly to sustainable land use, precision agriculture, and efficient resource planning. 🌿
 
