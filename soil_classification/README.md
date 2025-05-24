@@ -55,7 +55,7 @@ This project employs a **Convolutional Neural Network (CNN)** based architecture
    * Apply Test-Time Augmentation (TTA) for robustness
    * Predict classes for unseen test images
 
----
+
 
 ## 📈 Evaluation Metrics
 
@@ -67,27 +67,6 @@ The model performance is measured using the following metrics:
 * 📊 **F1-Score**
 
 These metrics are computed both per-class and as macro/weighted averages to assess overall and class-wise performance.
-
----
-
-## 📁 Project Structure
- 
-├── notebooks/
-│   ├── training.ipynb        # Model training notebook
-│   └── inference.ipynb       # Model evaluation and prediction
-│
-├── docs/
-│   ├── architecture.png      # Diagram of model pipeline
-│   └── cards/
-│       ├── project-card.ipynb # Results summary
-│       └── ml-metrics.json    # JSON with precision, recall, F1-score
-│
-├── data/
-│   └── download.sh           # Script for fetching dataset
-│
-├── README.md                 # Project overview and usage guide
-└── requirements.txt          # Python dependencies
-
 
 
 
