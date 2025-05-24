@@ -80,3 +80,52 @@ These metrics are computed both per-class and as macro/weighted averages to asse
 
 #### A reliable soil classification model contributes directly to sustainable land use, precision agriculture, and efficient resource planning. 🌿
 
+
+## Create Virtual Environment (optional)
+python -m venv venv
+source venv/bin/activate  # For Unix
+venv\Scripts\activate     # For Windows
+
+## Install Dependencies
+pip install -r requirements.txt
+
+## Download Dataset
+bash data/download.sh
+
+## Train the Model
+jupyter notebook notebooks/training.ipynb
+
+## Run Inference
+jupyter notebook notebooks/inference.ipynb
+
+## Requirements
+
+Please refer to the requirements.txt for a complete list of dependencies.
+
+torch==2.1.0
+torchvision==0.16.0
+timm==0.9.8
+albumentations==1.4.0
+scikit-learn==1.3.2
+pandas==2.1.1
+matplotlib==3.8.0
+opencv-python==4.8.1.78
+
+## Contact
+
+Team name: Async Minds
+
+Name:Alexa Kurapati
+Institution: IIIT Tiruchirappalli
+Email:221128@iiitt.ac.in
+
+Name:Sahithi Sirivella
+Institution: Rajiv Gandhi University Of Knowledge Technologies
+Email:sirivella.sahithi37@gmail.com
+
+## Acknowledgements
+
+This project is developed as part of the Soil Image Classification Challenge by Annam.ai in partnership with IIT Ropar. We acknowledge their initiative to promote real-world applications of artificial intelligence in agriculture and environmental science.
+
+
+
