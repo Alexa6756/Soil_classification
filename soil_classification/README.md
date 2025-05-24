@@ -1,4 +1,4 @@
-🌱 Soil Image Classification using Deep Learning
+ ## ☘️ Soil Image Classification using Deep Learning
 
 This project aims to develop a robust machine learning system for **classifying soil images into one of four soil types**:
 
