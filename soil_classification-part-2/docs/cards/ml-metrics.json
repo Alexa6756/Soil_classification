@@ -1,1 +1,25 @@
 
+{
+  "project": "Soil Image Classification Challenge 2025",
+  "model": "ResNet18 (pretrained)",
+  "dataset": {
+    "train_samples": 9000,
+    "validation_samples": 1000,
+    "test_samples": 3000
+  },
+  "input_size": [224, 224, 3],
+  "batch_size": 32,
+  "epochs": 5,
+  "optimizer": "Adam",
+  "learning_rate": 0.0001,
+  "loss_function": "CrossEntropyLoss",
+  "metrics": {
+    "train_f1_score": 0.85,
+    "validation_f1_score": 0.82,
+    "best_model_saved": "best_soil_model.pth"
+  },
+  "hardware": {
+    "device": "cuda" 
+  },
+  "notes": "Model trained with Albumentations augmentations and stratified split."
+}
