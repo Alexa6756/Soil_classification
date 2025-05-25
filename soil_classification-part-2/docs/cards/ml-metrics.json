@@ -14,8 +14,8 @@
   "learning_rate": 0.0001,
   "loss_function": "CrossEntropyLoss",
   "metrics": {
-    "train_f1_score": 0.85,
-    "validation_f1_score": 0.82,
+    "train_f1_score": 0.98,
+    "validation_f1_score": 0.95,
     "best_model_saved": "best_soil_model.pth"
   },
   "hardware": {
