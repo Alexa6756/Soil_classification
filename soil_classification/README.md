@@ -11,23 +11,23 @@ The system utilizes computer vision and deep learning techniques to automaticall
 
 
 
-## 🧠 Problem Statement
+##  Problem Statement
 
 Soil plays a foundational role in supporting agriculture, ecosystems, and infrastructure. Accurately identifying soil types from images enables better:
 
-* 🌾 Crop selection and land management
-* 🌍 Environmental monitoring
-* 🏗️ Engineering decision-making
+*  Crop selection and land management
+*  Environmental monitoring
+*  Engineering decision-making
 
 The goal is to train a model that can **predict the type of soil from an image** using features such as texture, color, and pattern.
 
 
 
-## 🛠️ Solution Overview
+##  Solution Overview
 
 This project employs a **Convolutional Neural Network (CNN)** based architecture for image classification, specifically using **EfficientNet-B4**, enhanced with several optimization techniques for improved accuracy and generalization.
 
-### 🔁 Workflow Summary
+###  Workflow Summary
 
 1. **Data Preparation**:
 
@@ -57,14 +57,14 @@ This project employs a **Convolutional Neural Network (CNN)** based architecture
 
 
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 The model performance is measured using the following metrics:
 
-* 🎯 **Accuracy**
-* 🧮 **Precision**
-* 🔁 **Recall**
-* 📊 **F1-Score**
+*  **Accuracy**
+*  **Precision**
+*  **Recall**
+*  **F1-Score**
 
 These metrics are computed both per-class and as macro/weighted averages to assess overall and class-wise performance.
 
