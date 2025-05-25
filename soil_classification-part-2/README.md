@@ -1,12 +1,12 @@
-## 🌱 Soil Image Classification Challenge 📸
+## 🌱 Soil Image Classification Challenge 
 
-## 🌟 Project Overview
+##  Project Overview
 
 Soil forms the foundation of agriculture, environmental ecosystems, and civil engineering projects. Rapid and accurate identification of soil presence in images plays a critical role in optimizing crop management, land use planning, and environmental monitoring.
 
 This project develops a convolutional neural network (CNN) based deep learning pipeline to classify images into soil or non-soil categories. The model leverages visual cues such as color gradients, texture, and surface patterns to distinguish soil from other elements.
 
-## 🎯 Objectives
+##  Objectives
 
 ✅ Build a reliable and scalable model to classify soil images.
 ✅ Standardize image inputs by resizing and normalization for consistent model training.
@@ -16,7 +16,7 @@ This project develops a convolutional neural network (CNN) based deep learning p
 ✅ Evaluate model performance using relevant metrics (F1-score, accuracy) to ensure balanced results.
 
 
-## 📂 Dataset Description
+##  Dataset Description
 
 Comprises images labeled as soil or non-soil.
 Images vary widely in resolution, brightness, and background conditions.
@@ -24,7 +24,7 @@ Dataset includes diverse soil types and environmental contexts.
 All images are preprocessed and resized to 224×224 pixels to fit CNN input requirements.
 Labels are provided as ground truth for supervised learning.
 
-## 🛠️ Methodology & Workflow
+##  Methodology & Workflow
 
 1. Data Preprocessing
 Resize: All images scaled to 224×224 pixels to maintain consistent input size.
@@ -98,6 +98,6 @@ Regularly validate the model to avoid overfitting and underfitting.
 *Email:sirivella.sahithi37@gmail.com
 
 Thank you for exploring this project! 🌍🌾
-Together, let's leverage AI to advance sustainable agriculture and environmental stewardship. 🤝
+Together, let's leverage AI to advance sustainable agriculture and environmental stewardship. 
 
 
