@@ -69,7 +69,7 @@ Execute the main notebook/script to preprocess data, train the model, and evalua
 Training logs, validation metrics, and model checkpoints will be saved for analysis.
 
 
-## Dependencies ⚙️
+## Dependencies 
 
 Python 3.8+
 PyTorch
@@ -77,7 +77,7 @@ torchvision
 Albumentations (for advanced augmentations)
 numpy, pandas, matplotlib (for data handling and visualization)
 
-## Notes and Recommendations 💡
+## Notes and Recommendations 
 
 Ensure consistent preprocessing steps during both training and inference.
 Experiment with different augmentation parameters to enhance robustness.
@@ -85,7 +85,7 @@ Use stratified splits to maintain class balance across training and validation s
 Document all hyperparameter settings and changes for reproducibility.
 Regularly validate the model to avoid overfitting and underfitting.
 
-## Contact and Contributions ✉️
+## Contact and Contributions 
 
 *Team name: Async Minds
 
